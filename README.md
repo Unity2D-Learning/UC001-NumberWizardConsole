@@ -16,4 +16,4 @@ Number Wizard Logic
 <img src="./Screenshots/NWLogic.jpg" width="500" height="500">
 
 Play Number Wizard Console
-<img src="./Screenshots/NumberWizardConsole.jpg" width="500" height="500">
+<img src="./Screenshots/NumberWizardConsole.JPG" width="500" height="500">
