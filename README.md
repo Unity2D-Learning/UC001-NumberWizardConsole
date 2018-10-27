@@ -13,3 +13,4 @@ In case the secret number is greather than the player's secret number the player
 If the guessed number equals the secret number the game is over and the wizard is happy :).  
 
 ![Image Number wizard Logic](./Screenshots/NWLogic.jpg  | width=500)
+<img src="./Screenshots/NWLogic.jpg" width="500" height="500">
