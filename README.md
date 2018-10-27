@@ -12,4 +12,4 @@ The player gives feedback with the arrow keys. If the secret number is lower tha
 In case the secret number is greather than the player's secret number the player presses the key "arrow up". 
 If the guessed number equals the secret number the game is over and the wizard is happy :).  
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](../Screenshots/)
+![Image Number wizard Logic](./Screenshots/NWLogicjpg)
